@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mageshwaran07mag.github.io/magesh/sitemap.xml
+Sitemap: https://mageshwaran07mag.github.io/magesh23/sitemap.xml
